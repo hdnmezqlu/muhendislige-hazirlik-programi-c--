@@ -1,0 +1,6 @@
+Bu kod, Fibonacci dizisindeki çift ekipmanların toplamını hesaplar. Fibonacci dizisi, önceki iki sayının toplamıyla elde edilen bir sayı dizisidir.
+
+Kodun zaman karmaşıklığı O(N)dir, burada N limit değeridir. Süre boyunca N tüketimi kadar çalışır. İçindeki işlemleri sabit zaman alır, yani kullanım zamanının karmaşıklığı O(1)'dir. dolayısıyla, toplam zaman karmaşıklığı O(N) + O(1) = O(N)'dir.
+
+
+
